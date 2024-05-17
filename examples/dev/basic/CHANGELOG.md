@@ -6,6 +6,8 @@ All notable changes to this project will be documented in this file. See [standa
 
 ## [2.0.0](https://github.com/quinnpertuit/panel-test/compare/@template/basic@2.0.0...@template/basic@2.0.0) (2024-05-17)
 
+## [2.0.0](https://github.com/quinnpertuit/panel-test/compare/@template/basic@2.0.0...@template/basic@2.0.0) (2024-05-17)
+
 ## [2.0.0](https://github.com/quinnpertuit/panel-test/compare/@template/basic@1.0.1...@template/basic@2.0.0) (2024-05-17)
 
 ### [1.0.1](https://github.com/quinnpertuit/panel-test/compare/@template/basic@1.0.1...@template/basic@1.0.1) (2024-05-17)
