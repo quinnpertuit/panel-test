@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.0](https://github.com/quinnpertuit/panel-test/compare/@template/basic@3.0.0...@template/basic@4.0.0) (2024-05-17)
+
 ## [3.0.0](https://github.com/quinnpertuit/panel-test/compare/@template/basic@3.0.0...@template/basic@3.0.0) (2024-05-17)
 
 ## [3.0.0](https://github.com/quinnpertuit/panel-test/compare/@template/basic@2.0.0...@template/basic@3.0.0) (2024-05-17)
