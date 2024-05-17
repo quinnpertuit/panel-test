@@ -1,13 +1,8 @@
 {
-    "presets": [
-      "react-native"
-    ],
-    "plugins": [
-    ]
-    // "env": {
-    //   "production": {
-    //     "plugins": ["transform-remove-console"]
-    //   }
-    // }
-  }
-  
+  "presets": ["@babel/preset-env", "@babel/preset-react"],
+  "plugins": [
+    "@babel/plugin-proposal-class-properties",
+    "@babel/plugin-transform-runtime",
+    "react-native-web"
+  ]
+}

@@ -1,3 +1,7 @@
+rm yarn.lock
+rm -rf node_modules 
+yarn cache clean 
+ edit .npmrc to:
 registry=https://registry.npmjs.org/
 disturl=https://nodejs.org/dist
 sass_binary_site=https://registry.npmjs.org/node-sass
